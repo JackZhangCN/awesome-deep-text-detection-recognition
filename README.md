@@ -2,8 +2,8 @@
 A curated list of awesome deep learning based papers on text detection and recognition.
 
 <p align='center'>
-<img src = '/overall_pi_chart.png' height="300px">  
-<img src = '/overall_histogram.png' height="450px">
+<img src = 'overall_pi_chart.png' height="300px">  
+<img src = 'overall_histogram.png' height="450px">
 </p>
 
 ## Text Detection
@@ -69,8 +69,8 @@ A curated list of awesome deep learning based papers on text detection and recog
 '19-ICCV | 19/09/02 | [Geometry Normalization Networks for Accurate Scene Text Detection](https://arxiv.org/abs/1909.00794) | | 0.8852 | |  
 '19-AAAI | 19/11/20 | [Real-time Scene Text Detection with Differentiable Binarization](https://arxiv.org/abs/1911.08947) | | 0.847 | |  
 <p align='center'>
-<img src = '/detection_ic13_results.png' height = '550px'>
-<img src = '/detection_ic15_results.png' height = '550px'>
+<img src = 'detection_ic13_results.png' height = '550px'>
+<img src = 'detection_ic15_results.png' height = '550px'>
 </p>
 
 ## Text Recognition
@@ -115,8 +115,8 @@ A curated list of awesome deep learning based papers on text detection and recog
 '20-AAAI | 20/02/04 | [GTC: Guided Training of CTC](https://arxiv.org/abs/2002.01276) | 0.929 | 0.955 | 0.952 | 0.943 |  
 
 <p align='center'>
-<img src = '/recognition_ic13_results.png' height = '550px'>
-<img src = '/recognition_iiit5k_results.png' height = '550px'>
+<img src = 'recognition_ic13_results.png' height = '550px'>
+<img src = 'recognition_iiit5k_results.png' height = '550px'>
 </p>
 
 ## End-to-End Text Recognition
@@ -147,7 +147,7 @@ A curated list of awesome deep learning based papers on text detection and recog
 '20-AAAI    | 19/11/21  | [All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting](https://arxiv.org/pdf/1911.09550) | | 0.841 | 0.641 |  
 '20-AAAI    | 20/02/12  | [Text Perceptron: Towards End-to-End Arbitrary-Shaped Text Spotting](https://arxiv.org/abs/2002.06820) | | 0.858 | 0.651 |  
 <p align='center'>
-<img src = '/end2end_ic13_ic15_results.png' height = '400px'>
+<img src = 'end2end_ic13_ic15_results.png' height = '400px'>
 </p>
 
 ## Others
