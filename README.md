@@ -210,3 +210,4 @@ A curated list of awesome deep learning based papers on text detection and recog
 ## Acknowledgment
 * This work is done by OCR team in Clova AI powered by NAVER-LINE. NAVER-LINE is an Asian top internet company and develops Clova, a cloud-based AI-assistant platform.
 * This repository is scheduled to be updated regularly in accordance with schedules of major AI conferences.
+test
